@@ -367,7 +367,7 @@ echo && echo -e " TCP加速 一键安装修改版 ${Red_font_prefix}[v${sh_ver}]
  ${Green_font_prefix}0.${Font_color_suffix} 升级脚本
 ————————————内核管理————————————
  ${Green_font_prefix}1.${Font_color_suffix} 安装 BBR4.11内核(for BBR原版/魔改版)
- ${Green_font_prefix}2.${Font_color_suffix} 安装 BBR5.*内核(for BBR原版)
+ ${Green_font_prefix}2.${Font_color_suffix} 安装 BBR最新主线内核(for BBR原版)
  ${Green_font_prefix}3.${Font_color_suffix} 安装 BBRplus版内核
  ${Green_font_prefix}4.${Font_color_suffix} 安装 Lotserver(锐速)内核
 ————————————加速管理————————————
